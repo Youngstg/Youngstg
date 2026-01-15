@@ -99,8 +99,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youngstg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngstg&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiYoungstganuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
